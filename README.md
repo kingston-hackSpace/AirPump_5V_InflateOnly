@@ -18,3 +18,12 @@ WARNING!
 
 HARDWARE
 ----
+
+- AIR PUMP MOTOR
+- AIR PUMP BULB
+- SILICONE TUBING
+- IRF520 MOSFET Driver Module
+
+- Arduino UNO
+- LED
+- 5V Power Supply
