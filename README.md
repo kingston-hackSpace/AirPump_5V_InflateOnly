@@ -6,11 +6,11 @@
 
 WARNING!
 
-- These pumps **CANNOT be used to pump water!!**
+- These pumps ***CANNOT be used to pump water!!***
 
-- *Note: For inflate/deflate control, please see the tutorial: AirPump_5V_InflateDeflate(upcoming)*
+- *For inflate/deflate control, please see the tutorial: AirPump_5V_InflateDeflate(upcoming)*
 
-- *Note: For larger inflating projets, you will need a more powerful Air Pump.*
+- *For larger inflating projets, you will need a more powerful Air Pump.*
 
 ----
 
