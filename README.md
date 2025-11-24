@@ -1,2 +1,2 @@
-# Air_Pump_5V
+# AirPump5V - Inflate Only
 Air Pump Guide
