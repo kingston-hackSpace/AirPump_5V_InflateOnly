@@ -19,7 +19,7 @@ WARNING!
 HARDWARE
 ----
 
-- AIR PUMP MOTOR (reference) https://thepihut.com/products/air-pump-and-vacuum-dc-motor-4-5v-and-1-8-lpm
+- AIR PUMP MOTOR [reference] (https://thepihut.com/products/air-pump-and-vacuum-dc-motor-4-5v-and-1-8-lpm)
 - AIR PUMP BULB
 - SILICONE TUBING
 - IRF520 MOSFET Driver Module
