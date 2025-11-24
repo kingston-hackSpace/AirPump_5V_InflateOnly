@@ -29,7 +29,7 @@ HARDWARE
 
 WIRING
 ----
-Reference image (here) 
+Reference image [here](https://github.com/kingston-hackSpace/AirPump_5V_InflateOnly/blob/main/AirPump_5V_InflateOnly.png)
 
 CODE
 ----
